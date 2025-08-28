@@ -1,0 +1,7 @@
+{
+  "name": "HoomeE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
