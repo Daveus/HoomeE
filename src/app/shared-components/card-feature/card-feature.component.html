@@ -1,9 +1,12 @@
-<ion-card button>
+<ion-card button class="card-feature">
   <ion-card-content class="card-content">
-    <img [src]="icon" alt="{{title}} icon" class="icon"/>
+  
     <div class="text">
-      <h2>{{ title }}</h2>
-      <p>{{ description }}</p>
+      <h3 class="title" title="{{title}}">{{ title }}</h3>
+      <p class="desc">{{ description }}</p>
+    </div>
+      <div class="icon-wrap" aria-hidden="true">
+      <img [src]="icon" alt="" class="icon"/>
     </div>
   </ion-card-content>
 </ion-card>

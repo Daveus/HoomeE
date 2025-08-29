@@ -1,3 +1,5 @@
-<svg viewBox="0 0 24 24" fill="#4CAF50" xmlns="http://www.w3.org/2000/svg">
-  <path d="M3 17h18v2H3v-2zm2-5h14v2H5v-2zm2-5h10v2H7V7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <rect x="2" y="5" width="20" height="14" rx="3" fill="#0B7A75"/>
+  <circle cx="17" cy="12" r="2.2" fill="#FFFFFF"/>
+  <path d="M4 8h12v2H4z" fill="#FFFFFF" opacity="0.08"/>
 </svg>
