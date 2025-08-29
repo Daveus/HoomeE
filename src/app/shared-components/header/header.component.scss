@@ -1,0 +1,12 @@
+ion-toolbar {
+  --background: var(--ion-color-primary);
+  --color: white;
+  text-align: center;
+
+  .logo {
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+}
